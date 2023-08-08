@@ -1,0 +1,44 @@
+h1{
+    background-color: rgb(49, 49, 49);
+    color:rgb(238, 236, 231);
+    border:5px solid black;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 50px;
+    
+}
+h2{
+    font-size: 40px;
+}
+html{
+    background-color: rgb(210, 218, 215);
+    font-family: 'Abril Fatface', cursive;
+}
+
+.a{
+    border: 5px solid rgb(25, 24, 24)
+}
+
+.b{
+    border:3px solid black;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 241);
+    }
+p{
+    font-size: 20px;
+}
+img[draggable="true"]{
+    border: 10px solid black;
+    border-width: 5px 10px;
+    width: 500px
+}
+.c{
+    border:3px solid black ;
+    border-radius: 5px;
+    margin: 20px;
+}
+.d{
+    border:3px solid black;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 241);
+}
